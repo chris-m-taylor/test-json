@@ -1,0 +1,32 @@
+{
+  "bandInfo": {
+    "name": "Botanical Selections",
+    "slogan": "providing quality music since 2021"
+  },
+  "images": {
+    "bandGroupPic": "https://chris-m-taylor.github.io/test-json/dev/botanical-selections/images/homepagegroupband.jpeg"
+  },
+  "social": {
+    "socialLinks": {
+      "youtube": {
+        "link": "https://www.youtube.com"
+      },
+      "instagram": {
+        "link": "https://www.instagram.com"
+      },
+      "appleMusic": {
+        "link": "https://www.apple.com"
+      },
+      "spotify": {
+        "link": "https://www.spotify.com"
+      }
+    },
+    "bandEmail": "test@gmail.com",
+    "youtubeVideoIds": [
+      "frXdtNI3Ylg",
+      "frXdtNI3Ylg",
+      "frXdtNI3Ylg",
+      "frXdtNI3Ylg"
+    ]
+  }
+}

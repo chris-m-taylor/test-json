@@ -1,0 +1,12 @@
+{
+  "songs": [
+    {
+      "title": "Song 1",
+      "lyrics": "Verse 1:\nLyrics for the first verse......................... ..............................\n\nChorus:\nLyrics for the chorus..."
+    },
+    {
+      "title": "Song 2",
+      "lyrics": "Verse 1:\nLyrics for the second song's verse...\n\nChorus:\nLyrics for the second song's chorus..."
+    }
+  ]
+}

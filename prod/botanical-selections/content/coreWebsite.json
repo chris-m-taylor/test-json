@@ -1,0 +1,22 @@
+{
+  "menu": {
+    "menuOptions": [
+      {
+        "label": "Home",
+        "route": "/"
+      },
+      {
+        "label": "Shows",
+        "route": "/#ShowsLink"
+      },
+      {
+        "label": "Lyrics",
+        "route": "/Lyrics"
+      },
+      {
+        "label": "Videos",
+        "route": "/#VideosLink"
+      }
+    ]
+  }
+}

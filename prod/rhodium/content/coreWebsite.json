@@ -10,14 +10,10 @@
         "route": "/#ShowsLink"
       },
       {
-        "label": "Lyrics",
-        "route": "/Lyrics"
-      },
-      {
         "label": "Videos",
         "route": "/#VideosLink"
       }
     ]
   },
-  "theme": "forest"
+  "theme": "black"
 }

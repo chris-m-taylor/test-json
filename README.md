@@ -2,6 +2,22 @@
 
 This documentation provides information about the structure of JSON objects used to manage band content on your website.
 
+## Environment-specific Configuration
+
+- **Production Environment (Prod):** The production environment looks for information in the "prod" folder.
+- **Development Environment (Dev):** The development environment looks for information in the "dev" folder.
+
+Please ensure that you place the appropriate JSON files in the respective folders based on your environment.
+
+## Vercel Deployment Configuration
+
+When deploying your application to Vercel, make sure to set the following environment variables:
+
+- **BANDS_IN_TOWN_API_KEY:** Provide your Bands In Town API key in vercel for fetching show information.
+- **HYPHENATED_BAND_NAME:** Set the hyphenated band name as an environment variable. This is used to point to the correct test-json route.
+
+This documentation provides information about the structure of JSON objects used to manage band content on your website.
+
 ## Menu JSON Object
 
 The `menu` object contains information about the navigation menu options.

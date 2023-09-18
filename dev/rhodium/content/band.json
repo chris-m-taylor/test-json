@@ -1,0 +1,20 @@
+{
+  "bandInfo": {
+    "name": "Rhodium",
+    "slogan": "providing quality music since 2023"
+  },
+  "images": {
+    "bandGroupPic": "https://chris-m-taylor.github.io/test-json/shared/rhodium/images/homepagegroupband.jpeg"
+  },
+  "social": {
+    "socialLinks": {
+      "instagram": {
+        "link": "https://www.instagram.com/rhodiumblackgold/"
+      }
+    },
+    "bandEmail": "test@gmail.com",
+    "youtubeVideoIds": [
+      "hGXbkWy9Img"
+    ]
+  }
+}

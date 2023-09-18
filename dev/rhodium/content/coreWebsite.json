@@ -14,5 +14,6 @@
         "route": "/#VideosLink"
       }
     ]
-  }
+  },
+  "theme": "black"
 }

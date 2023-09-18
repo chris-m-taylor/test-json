@@ -175,6 +175,8 @@ The `songs` object contains information about the band's songs.
 
 ### Modifying Songs
 
+Make sure this route exists even if you are not using it. It needs an empty song array at the minimum.
+
 To modify the songs component:
 
 - If the song component is empty, the "/Lyrics" route will return no songs.

@@ -43,7 +43,8 @@ The `menu` object contains information about the navigation menu options.
         "route": "/#VideosLink"
       }
     ]
-  }
+  },
+  "theme": "forest"
 }
 ```
 
@@ -53,6 +54,10 @@ The `menu` object contains information about the navigation menu options.
 - "Shows" - Label: "Shows", Route: "/#ShowsLink"
 - "Lyrics" - Label: "Lyrics", Route: "/Lyrics"
 - "Videos" - Label: "Videos", Route: "/#VideosLink"
+
+### Available Theme Options
+- "theme" - Label: "chosen theme"
+Make sure you add the theme to the project and name it the same thing.
 
 ### Modifying Menu Options
 

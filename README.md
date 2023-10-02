@@ -66,6 +66,11 @@ To customize the navigation menu, you can:
 - Remove any nested menu options to hide them from all navigation bars.
 - To add a new link, ensure that the `route` field matches the component ID for auto-scrolling. For new pages, create them in the Next.js app folder and wrap any conditional rendering as needed.
 
+## Updating fonts
+1. Go into the band-template repository and add the font to the assets folder. 
+2. Then add the font to the globals.css
+3. Then add the font to the tailwind.config.js
+
 ## Band Info JSON Object
 
 The `bandInfo` object provides general information about the band.
